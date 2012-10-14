@@ -1,5 +1,5 @@
 {
-  "name": "node-timmy",
+  "name": "timmy",
   "description": "helper properties to generate milliseconds from numbers",
   "version": "0.0.0",
   "author": "Julian Bilcke <julian.bilcke@daizoru.com>",
